@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/adamvosburgh/ckzm6ymoc001y15s707imeig0',
-    accessToken: 'pk.eyJ1IjoiYWRhbXZvc2J1cmdoIiwiYSI6ImNtbXY0MGtqNzJnYWMyb3B5YnJrM3hoMTUifQ.-FIAixT7iPYNqzMSQQ37jg',
+    accessToken: 'YOUR TOKEN HERE BETWEEN THE QUOTES',
     showMarkers: false,
     markerColor: '#3FB1CE',
     theme: 'light',
@@ -145,7 +145,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The End',
-            description: 'Tutorial Created for Methods in Spatial Research, Spring 2022. Updated Spring 2026.',
+            description: 'Tutorial Created for Methods in Spatial Research, Spring 2022.',
             location: {
                 center: [-73.96089, 40.80827],
                 zoom: 19,
